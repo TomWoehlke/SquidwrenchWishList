@@ -1,0 +1,6 @@
+s item will act as a 3.3V power supply for the ESP module.
+The item is spendy but interesting and appears to be very safe.
+
+Purchase Link: http://www.newark.com/tracopower/tiw-06-103/psu-ac-dc-1-2a-4w-module/dp/31T8431?ost=120+V+AC+to+3.3+V+DC&categoryId=800000005773
+Datasheet Link: http://www.farnell.com/datasheets/1244077.pdf
+
